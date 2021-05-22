@@ -1,0 +1,42 @@
+C:\Users\lucas\source\repos\ABS Cleaner\ABS Cleaner\obj\Debug\ABS Plus+.vbprojAssemblyReference.cache
+C:\Users\lucas\source\repos\ABS Cleaner\ABS Cleaner\obj\Debug\ABS Plus+.vbproj.GenerateResource.cache
+C:\Users\lucas\source\repos\ABS Cleaner\ABS Cleaner\bin\Debug\Abs Cleaner.exe.config
+C:\Users\lucas\source\repos\ABS Cleaner\ABS Cleaner\bin\Debug\Abs Cleaner.exe
+C:\Users\lucas\source\repos\ABS Cleaner\ABS Cleaner\bin\Debug\Abs Cleaner.pdb
+C:\Users\lucas\source\repos\ABS Cleaner\ABS Cleaner\bin\Debug\Abs Cleaner.xml
+C:\Users\lucas\source\repos\ABS Cleaner\ABS Cleaner\obj\Debug\ABS_cleaner.Form1.resources
+C:\Users\lucas\source\repos\ABS Cleaner\ABS Cleaner\obj\Debug\ABS_cleaner.Resources.resources
+C:\Users\lucas\source\repos\ABS Cleaner\ABS Cleaner\obj\Debug\ABS_cleaner.Sobre.resources
+C:\Users\lucas\source\repos\ABS Cleaner\ABS Cleaner\obj\Debug\ABS_cleaner.UpdateChecker.resources
+C:\Users\lucas\source\repos\ABS Cleaner\ABS Cleaner\obj\Debug\Abs Cleaner.exe
+C:\Users\lucas\source\repos\ABS Cleaner\ABS Cleaner\obj\Debug\Abs Cleaner.xml
+C:\Users\lucas\source\repos\ABS Cleaner\ABS Cleaner\obj\Debug\Abs Cleaner.pdb
+C:\Users\lucas\source\repos\ABS Cleaner\ABS Cleaner\obj\Debug\ABS Plus+.vbproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Workspace\ABS Cleaner\ABS Cleaner\bin\Debug\Abs Cleaner.exe.config
+C:\Users\lucas\OneDrive\Área de Trabalho\Workspace\ABS Cleaner\ABS Cleaner\bin\Debug\Abs Cleaner.exe
+C:\Users\lucas\OneDrive\Área de Trabalho\Workspace\ABS Cleaner\ABS Cleaner\bin\Debug\Abs Cleaner.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\Workspace\ABS Cleaner\ABS Cleaner\bin\Debug\Abs Cleaner.xml
+C:\Users\lucas\OneDrive\Área de Trabalho\Workspace\ABS Cleaner\ABS Cleaner\obj\Debug\ABS Plus+.vbprojAssemblyReference.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Workspace\ABS Cleaner\ABS Cleaner\obj\Debug\ABS_cleaner.Form1.resources
+C:\Users\lucas\OneDrive\Área de Trabalho\Workspace\ABS Cleaner\ABS Cleaner\obj\Debug\ABS_cleaner.Resources.resources
+C:\Users\lucas\OneDrive\Área de Trabalho\Workspace\ABS Cleaner\ABS Cleaner\obj\Debug\ABS_cleaner.Sobre.resources
+C:\Users\lucas\OneDrive\Área de Trabalho\Workspace\ABS Cleaner\ABS Cleaner\obj\Debug\ABS_cleaner.UpdateChecker.resources
+C:\Users\lucas\OneDrive\Área de Trabalho\Workspace\ABS Cleaner\ABS Cleaner\obj\Debug\ABS Plus+.vbproj.GenerateResource.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Workspace\ABS Cleaner\ABS Cleaner\obj\Debug\ABS Plus+.vbproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Workspace\ABS Cleaner\ABS Cleaner\obj\Debug\Abs Cleaner.exe
+C:\Users\lucas\OneDrive\Área de Trabalho\Workspace\ABS Cleaner\ABS Cleaner\obj\Debug\Abs Cleaner.xml
+C:\Users\lucas\OneDrive\Área de Trabalho\Workspace\ABS Cleaner\ABS Cleaner\obj\Debug\Abs Cleaner.pdb
+G:\Workspace\ABS Cleaner\ABS Cleaner\bin\Debug\Abs Cleaner.exe.config
+G:\Workspace\ABS Cleaner\ABS Cleaner\bin\Debug\Abs Cleaner.exe
+G:\Workspace\ABS Cleaner\ABS Cleaner\bin\Debug\Abs Cleaner.pdb
+G:\Workspace\ABS Cleaner\ABS Cleaner\bin\Debug\Abs Cleaner.xml
+G:\Workspace\ABS Cleaner\ABS Cleaner\obj\Debug\ABS Plus+.vbprojAssemblyReference.cache
+G:\Workspace\ABS Cleaner\ABS Cleaner\obj\Debug\ABS_cleaner.Form1.resources
+G:\Workspace\ABS Cleaner\ABS Cleaner\obj\Debug\ABS_cleaner.Resources.resources
+G:\Workspace\ABS Cleaner\ABS Cleaner\obj\Debug\ABS_cleaner.Sobre.resources
+G:\Workspace\ABS Cleaner\ABS Cleaner\obj\Debug\ABS_cleaner.UpdateChecker.resources
+G:\Workspace\ABS Cleaner\ABS Cleaner\obj\Debug\ABS Plus+.vbproj.GenerateResource.cache
+G:\Workspace\ABS Cleaner\ABS Cleaner\obj\Debug\ABS Plus+.vbproj.CoreCompileInputs.cache
+G:\Workspace\ABS Cleaner\ABS Cleaner\obj\Debug\Abs Cleaner.exe
+G:\Workspace\ABS Cleaner\ABS Cleaner\obj\Debug\Abs Cleaner.xml
+G:\Workspace\ABS Cleaner\ABS Cleaner\obj\Debug\Abs Cleaner.pdb

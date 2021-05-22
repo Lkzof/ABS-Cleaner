@@ -1,0 +1,12 @@
+C:\Users\lucas\source\repos\ABS Cleaner\ABS Cleaner\bin\Debug\ABS Cleaner.exe.config
+C:\Users\lucas\source\repos\ABS Cleaner\ABS Cleaner\bin\Debug\ABS Cleaner.exe
+C:\Users\lucas\source\repos\ABS Cleaner\ABS Cleaner\bin\Debug\ABS Cleaner.pdb
+C:\Users\lucas\source\repos\ABS Cleaner\ABS Cleaner\bin\Debug\ABS Cleaner.xml
+C:\Users\lucas\source\repos\ABS Cleaner\ABS Cleaner\obj\Debug\ABS Cleaner.vbprojAssemblyReference.cache
+C:\Users\lucas\source\repos\ABS Cleaner\ABS Cleaner\obj\Debug\ABS_Cleaner.Form1.resources
+C:\Users\lucas\source\repos\ABS Cleaner\ABS Cleaner\obj\Debug\ABS_Cleaner.Resources.resources
+C:\Users\lucas\source\repos\ABS Cleaner\ABS Cleaner\obj\Debug\ABS Cleaner.vbproj.GenerateResource.cache
+C:\Users\lucas\source\repos\ABS Cleaner\ABS Cleaner\obj\Debug\ABS Cleaner.exe
+C:\Users\lucas\source\repos\ABS Cleaner\ABS Cleaner\obj\Debug\ABS Cleaner.xml
+C:\Users\lucas\source\repos\ABS Cleaner\ABS Cleaner\obj\Debug\ABS Cleaner.pdb
+C:\Users\lucas\source\repos\ABS Cleaner\ABS Cleaner\obj\Debug\ABS_Cleaner.Sobre.resources
